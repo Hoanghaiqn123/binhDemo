@@ -1,0 +1,21 @@
+[debug] [2022-06-23T12:59:09.772Z] ----------------------------------------------------------------------
+[debug] [2022-06-23T12:59:09.773Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-06-23T12:59:09.773Z] CLI Version:   11.1.0
+[debug] [2022-06-23T12:59:09.773Z] Platform:      win32
+[debug] [2022-06-23T12:59:09.773Z] Node Version:  v16.14.2
+[debug] [2022-06-23T12:59:09.774Z] Time:          Thu Jun 23 2022 19:59:09 GMT+0700 (Indochina Time)
+[debug] [2022-06-23T12:59:09.774Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-06-23T12:59:09.777Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-06-23T12:59:09.778Z] > authorizing via signed-in user (hoanghaiqn123@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\nextjs project\connextify.webflow
+
